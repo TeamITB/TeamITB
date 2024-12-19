@@ -10,7 +10,7 @@ Siamo **ITB Srl**, la società di consulenza Salesforce del Gruppo OTS. Il nostr
 - **Apex e Lightning**
 - **Strumenti di Integrazione CRM**
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" /> Contattaci
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Telephone Receiver" width="25" height="25" /> Contattaci
 
 Hai domande o vuoi collaborare con noi? Sentiti libero di contattarci!
 
